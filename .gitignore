@@ -1,5 +1,4 @@
 *.Rcheck
-*.html
 *.rprof
 *.sas.txt
 *~
@@ -16,7 +15,6 @@ Meta
 coverage.*
 devel/*
 doc
-docs
 inst/outputs/*
 logs
 packrat/lib*/
