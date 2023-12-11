@@ -49,17 +49,20 @@ Imports:
     utils
 Suggests:
     bslib,
-    covr,
+    config,
     dplyr,
-    knitr,
+    httr,
+    knitr (>= 1.42),
     MultiAssayExperiment,
     R6,
     rmarkdown,
     shinyvalidate,
     teal.code (>= 0.3.0.9009),
     testthat (>= 3.1.5),
-    withr,
-    yaml
+    tidyr,
+    visNetwork,
+    withr (>= 2.1.0),
+    yaml (>= 1.1.0)
 VignetteBuilder:
     knitr
 RdMacros:
